@@ -8,5 +8,6 @@ public class CommonTest_Group1 {
         System.out.println("Test 3, Failed!");
         System.out.println("Test 4, Passed!");
         System.out.println("Test 5, Passed!");
+        System.out.println("Test 6, Passed!");
     }
 }
